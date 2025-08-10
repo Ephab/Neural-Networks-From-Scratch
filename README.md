@@ -9,7 +9,8 @@ The goal of this repository is to **recreate as many types of neural networks as
 - [ ] Implement different **cost functions**  
 - [ ] Add various **optimizers** (Adam, RMSprop, etc.)  
 - [ ] Support multiple **activation functions**
-
+- [ ] Implement **gradient clipping**
+- [ ] Implement **mini batch**
 ---
 
 > 🚀 This is an ongoing learning project aimed at understanding the inner workings of neural networks from the ground up.
