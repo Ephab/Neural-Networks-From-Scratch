@@ -3,10 +3,10 @@
 The goal of this repository is to **recreate as many types of neural networks as possible** from scratch, without relying on high-level deep learning frameworks.
 
 ## 📌 Current Progress
-✅ Implemented a **basic Multilayer Perceptron (MLP)** capable of handling **binary classification** tasks.
-✅ Implemented **Binary Cross Entropy** as well as **Cross Entropy** for multi class classification
-✅ Implemented **ReLU** and **Sigmoid** activation functions
-✅ Implemented **mini batches** for much faster training
+- ✅ Implemented a **basic Multilayer Perceptron (MLP)** capable of handling **binary classification** tasks.
+- ✅ Implemented **Binary Cross Entropy** as well as **Cross Entropy** for multi class classification
+- ✅ Implemented **ReLU** and **Sigmoid** activation functions
+- ✅ Implemented **mini batches** for much faster training
 
 ## 🛠️ To Do
 - [X] Implement different **cost functions**  
