@@ -7,7 +7,7 @@ The goal of this repository is to **recreate as many types of neural networks as
 - ✅ Implemented **Binary Cross Entropy** as well as **Cross Entropy** for multi class classification
 - ✅ Implemented **ReLU** and **Sigmoid** activation functions
 - ✅ Implemented **Mini-batches** for much faster training
-- ✅ Implemented **Gradient descent with momentum** and **RMSProp** optimizers
+- ✅ Implemented **Gradient descent with momentum**, **RMSProp** and **Adam** optimizers
 
 ## 🛠️ To Do
 - [X] Implement different **cost functions**  
