@@ -8,6 +8,8 @@ The goal of this repository is to **recreate as many types of neural networks as
 - ✅ Implemented **ReLU** and **Sigmoid** activation functions
 - ✅ Implemented **Mini-batches** for much faster training
 - ✅ Implemented **Gradient descent with momentum**, **RMSProp** and **Adam** optimizers
+- ✅ Implemented **He** and **Xavier** initializations
+
 
 ## 🛠️ To Do
 - [X] Implement different **cost functions**  
