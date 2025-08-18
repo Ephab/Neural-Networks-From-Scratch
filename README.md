@@ -17,6 +17,6 @@ The goal of this repository is to **recreate as many types of neural networks as
 - [X] Implement **mini-batches**
 - [ ] Implement different types of **regularization** (L1, L2, Dropout)
 ---
-> Highest accuracy score achieved on the dev-set so far = 0.9777
+> Highest accuracy score achieved on the dev-set so far = 0.9823
 ---
 > 🚀 This is an ongoing learning project aimed at understanding the inner workings of neural networks from the ground up.
