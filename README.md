@@ -9,6 +9,7 @@ The goal of this repository is to **recreate as many types of neural networks as
 - ✅ Implemented **Mini-batches** for much faster training
 - ✅ Implemented **Gradient descent with momentum**, **RMSProp** and **Adam** optimizers
 - ✅ Implemented **He** and **Xavier** initializations
+- ✅ Implemented **L2** and **Dropout** regularizations
 
 
 ## 🛠️ To Do
@@ -17,7 +18,7 @@ The goal of this repository is to **recreate as many types of neural networks as
 - [X] Support multiple **activation functions**
 - [ ] Implement **gradient clipping**
 - [X] Implement **mini-batches**
-- [ ] Implement different types of **regularization** (L1, L2, Dropout)
+- [X] Implement different types of **regularization** (L1, L2, Dropout)
 ---
 > Highest accuracy score achieved on the dev-set so far = 0.9823
 ---
