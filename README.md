@@ -1,4 +1,6 @@
 # Neural Networks From Scratch
+![221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc](https://github.com/user-attachments/assets/765443ae-d538-4eec-9351-4d89a14ae7cd)
+
 
 The goal of this repository is to **recreate as many types of neural networks as possible** from scratch, without relying on high-level deep learning frameworks.
 
