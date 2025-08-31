@@ -12,6 +12,7 @@ The goal of this repository is to **recreate as many types of neural networks as
 - ✅ Implemented **Gradient descent with momentum**, **RMSProp** and **Adam** optimizers
 - ✅ Implemented **He** and **Xavier** initializations
 - ✅ Implemented **L2** and **Dropout** regularizations
+- ✅ Implemented a function to predict **hand drawn digits** using the model
 
 
 ## 🛠️ To Do
